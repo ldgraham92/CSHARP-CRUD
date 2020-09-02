@@ -1,0 +1,13 @@
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\obj\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.csprojAssemblyReference.cache
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\obj\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.AssemblyInfoInputs.cache
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\obj\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.AssemblyInfo.cs
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\obj\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.csproj.CoreCompileInputs.cache
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\bin\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.exe
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\bin\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.deps.json
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\bin\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.runtimeconfig.json
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\bin\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.runtimeconfig.dev.json
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\bin\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.dll
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\bin\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.pdb
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\obj\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.dll
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\obj\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.pdb
+C:\Users\LGraham\Documents\TECHCareers\CRUD Project\c-assignment-crud-ldgraham92\obj\Debug\netcoreapp3.1\c-assignment-crud-ldgraham92.genruntimeconfig.cache
